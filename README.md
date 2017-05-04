@@ -1,5 +1,5 @@
 # shoppingmall
-$ git clone git@github.com:pplove/***_workspace.git
+$ git clone git@github.com:pplove/TinyW/Shopping-Mall.git
 Cloning into '***'...
 remote: Counting objects: 3, done.
 remote: Total 3 (delta 0), reused 0 (delta 0)
